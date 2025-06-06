@@ -13,6 +13,8 @@ export default siteConfig({
   domain: 'quantumcomputation.tech',
   author: 'Fernand',
 
+  // domain: 'introduction-to-quantum-computing.vercel.app',
+
   // open graph metadata (optional)
   description: 'Quark Lab',
 
