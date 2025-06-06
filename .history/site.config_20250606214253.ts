@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Introduction to Quantum Computing',
-  domain: 'introduction-to-quantum-computing.vercel.app',
+  domain: 'intro-quantum-computing.vercel.app',
   author: 'Fernand',
 
   //   domain: 'quantumcomputation.tech',
